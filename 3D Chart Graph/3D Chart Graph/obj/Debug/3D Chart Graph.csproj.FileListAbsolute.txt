@@ -1,0 +1,34 @@
+C:\Users\AgriMetSoft\Documents\Visual Studio 2013\Projects\Exercises\3D Chart Graph\3D Chart Graph\bin\Debug\3D Chart Graph.exe.config
+C:\Users\AgriMetSoft\Documents\Visual Studio 2013\Projects\Exercises\3D Chart Graph\3D Chart Graph\bin\Debug\3D Chart Graph.exe
+C:\Users\AgriMetSoft\Documents\Visual Studio 2013\Projects\Exercises\3D Chart Graph\3D Chart Graph\bin\Debug\3D Chart Graph.pdb
+C:\Users\AgriMetSoft\Documents\Visual Studio 2013\Projects\Exercises\3D Chart Graph\3D Chart Graph\obj\Debug\_3D_Chart_Graph.Properties.Resources.resources
+C:\Users\AgriMetSoft\Documents\Visual Studio 2013\Projects\Exercises\3D Chart Graph\3D Chart Graph\obj\Debug\3D Chart Graph.csproj.GenerateResource.Cache
+C:\Users\AgriMetSoft\Documents\Visual Studio 2013\Projects\Exercises\3D Chart Graph\3D Chart Graph\obj\Debug\3D Chart Graph.exe
+C:\Users\AgriMetSoft\Documents\Visual Studio 2013\Projects\Exercises\3D Chart Graph\3D Chart Graph\obj\Debug\3D Chart Graph.pdb
+C:\Users\AgriMetSoft\Documents\Visual Studio 2013\Projects\Exercises\3D Chart Graph\3D Chart Graph\obj\Debug\_3D_Chart_Graph.Form1.resources
+C:\Users\AgriMetSoft\Documents\Visual Studio 2013\Projects\Exercises\3D Chart Graph\3D Chart Graph\obj\Debug\Plot3D.Graph3DMainForm.resources
+C:\Users\AgriMetSoft\Documents\Visual Studio 2013\Projects\Exercises\3D Chart Graph\3D Chart Graph\obj\Debug\3D Chart Graph.csprojResolveAssemblyReference.cache
+C:\KURSOVAYA C#\3D Chart Graph\3D Chart Graph\bin\Debug\3D Chart Graph.exe.config
+C:\KURSOVAYA C#\3D Chart Graph\3D Chart Graph\bin\Debug\3D Chart Graph.exe
+C:\KURSOVAYA C#\3D Chart Graph\3D Chart Graph\bin\Debug\3D Chart Graph.pdb
+C:\KURSOVAYA C#\3D Chart Graph\3D Chart Graph\obj\Debug\3D Chart Graph.csproj.AssemblyReference.cache
+C:\KURSOVAYA C#\3D Chart Graph\3D Chart Graph\obj\Debug\Plot3D.Graph3DMainForm.resources
+C:\KURSOVAYA C#\3D Chart Graph\3D Chart Graph\obj\Debug\_3D_Chart_Graph.Properties.Resources.resources
+C:\KURSOVAYA C#\3D Chart Graph\3D Chart Graph\obj\Debug\3D Chart Graph.csproj.GenerateResource.cache
+C:\KURSOVAYA C#\3D Chart Graph\3D Chart Graph\obj\Debug\3D Chart Graph.csproj.CoreCompileInputs.cache
+C:\KURSOVAYA C#\3D Chart Graph\3D Chart Graph\obj\Debug\3D Chart Graph.exe
+C:\KURSOVAYA C#\3D Chart Graph\3D Chart Graph\obj\Debug\3D Chart Graph.pdb
+C:\KURSOVAYA C#\Ver2\3D Chart Graph\3D Chart Graph\bin\Debug\3D Chart Graph.exe.config
+C:\KURSOVAYA C#\Ver2\3D Chart Graph\3D Chart Graph\bin\Debug\3D Chart Graph.exe
+C:\KURSOVAYA C#\Ver2\3D Chart Graph\3D Chart Graph\bin\Debug\3D Chart Graph.pdb
+C:\KURSOVAYA C#\Ver2\3D Chart Graph\3D Chart Graph\obj\Debug\3D Chart Graph.csproj.AssemblyReference.cache
+C:\KURSOVAYA C#\Ver2\3D Chart Graph\3D Chart Graph\obj\Debug\Plot3D.Graph3DMainForm.resources
+C:\KURSOVAYA C#\Ver2\3D Chart Graph\3D Chart Graph\obj\Debug\_3D_Chart_Graph.Properties.Resources.resources
+C:\KURSOVAYA C#\Ver2\3D Chart Graph\3D Chart Graph\obj\Debug\3D Chart Graph.csproj.GenerateResource.cache
+C:\KURSOVAYA C#\Ver2\3D Chart Graph\3D Chart Graph\obj\Debug\3D Chart Graph.csproj.CoreCompileInputs.cache
+C:\KURSOVAYA C#\Ver2\3D Chart Graph\3D Chart Graph\obj\Debug\3D Chart Graph.exe
+C:\KURSOVAYA C#\Ver2\3D Chart Graph\3D Chart Graph\obj\Debug\3D Chart Graph.pdb
+C:\KURSOVAYA C#\Ver2\3D Chart Graph\3D Chart Graph\bin\Debug\log4net.dll
+C:\KURSOVAYA C#\Ver2\3D Chart Graph\3D Chart Graph\bin\Debug\log4net.xml
+C:\KURSOVAYA C#\Ver2\3D Chart Graph\3D Chart Graph\obj\Debug\3D Chart.C360469A.Up2Date
+C:\KURSOVAYA C#\Ver2\3D Chart Graph\3D Chart Graph\bin\Debug\NCalc.dll
